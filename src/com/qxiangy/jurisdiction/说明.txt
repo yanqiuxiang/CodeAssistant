@@ -1,0 +1,3 @@
+相关权限的帮助类
+1、 EncryptUtil  字节加密解密
+2、MD5Util  MD5加密
